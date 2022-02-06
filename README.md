@@ -23,5 +23,5 @@ I am a developer who is always upset and hungry. Im hungry to learning new thing
 
 ## 😄 Pronouns
  * Turkish is my primary language.
- * My English level is B2
+ * My English level is A2 or B1
  * Im also learning arabic.
