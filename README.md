@@ -3,6 +3,8 @@
 I am a developer who is always upset and hungry. Im hungry to learning new things, solving math or to eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
 </img>
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=devnar.devnar)](#) 
+
 ## 📫 Get Contact with me at
 * Website: https://devnar.github.io
 * E-Mail Adress: yardim.nar@yaani.com
