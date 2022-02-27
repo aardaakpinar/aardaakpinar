@@ -11,8 +11,8 @@ Hello, I am website developer. A loving 💖 and a Front-End enthusiast 🧠 the
 
 ## 🔭 I’m currently working on 'a lot of things'.                                        
  * Teknofest Projects                                                   
- * Learning new languages like JavaScript and Python                                    
- * Learning libraries like Vue.js and Front-End                                                        
+ * Learning new languages like JavaScript and Go                                    
+ * Learning libraries like Vue.js and React                                                        
 
 ## 😄 Pronouns
  * Turkish is my primary language.
