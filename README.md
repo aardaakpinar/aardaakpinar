@@ -1,6 +1,6 @@
 # Hi ^^ me NAR!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=devnar&show_icons=true&theme=radical"> 
-I am a developer who is always upset and hungry. Im hungry to learning new things, solving math or to eating food (Döner will be overpreferred). But even though I'm always sad, sometimes I can be happy, especially when the person I love and care about is next to me.
+Hello, I am website developer. A loving 💖 and a Front-End enthusiast 🧠 there is. I like to read Science Fiction books and gain new information.
 </img>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=devnar.devnar)](#) 
