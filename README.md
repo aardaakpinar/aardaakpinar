@@ -8,6 +8,7 @@ Hello, I am website developer. A loving 💖 and a Front-End enthusiast 🧠 the
 ## 📫 Get Contact with me at
 * Website: https://devnar.github.io
 * E-Mail Adress: yardim.nar@yaani.com
+[![Discord Presence](https://lanyard.cnrad.dev/api/596947360228048906)](https://discord.com/users/596947360228048906)
 
 ## 🔭 I’m currently working on 'a lot of things'.                                        
  * Teknofest Projects                                                   
