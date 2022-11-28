@@ -16,4 +16,4 @@ Hello, I am website developer. A loving 💖 and a Front-End enthusiast 🧠 the
 
 ## 😄 Pronouns
  * Turkish is my primary language.
- * My English level is A2 or B1
+ * My English level is A2
