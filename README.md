@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar" alt="devnar" /></a> </p>
 
-- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa)
+- 🔭 I’m currently working on
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://devnar.github.io)](https://devnar.github.io)
 
 - 🌱 I’m currently learning **Python & AI**
 
@@ -18,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_devnar" height="30" width="40" /></a>
-<a href="https://dev.to/devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devnar" height="30" width="40" /></a>
 <a href="https://twitter.com/_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_devnar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_devnar" height="30" width="40" /></a>
 </p>
