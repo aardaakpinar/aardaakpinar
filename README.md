@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a> </p>
 
-- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa)
+- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa) & [Reciπ](https://devnar.github.io/recipi)
 
 - 🌱 I’m currently learning **Python & AI**
 
