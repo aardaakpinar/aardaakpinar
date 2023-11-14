@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [devnar.github.io](https://devnar.github.io)
 
-- 📫 How to reach me **yardim.nar@yaani.com**
+- 📫 How to reach me **devnar@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
