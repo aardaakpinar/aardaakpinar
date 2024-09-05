@@ -1,40 +1,54 @@
 <h1 align="center">Hi 👋, I'm NAR</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&&color=23b5b5&style=flat" alt="devnar" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&&color=23b5b5&style=flat" alt="devnar" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a> </p>
-
-- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa) & [Tickle](https://devnar.github.io/tickle)
-
-- 🌱 I’m currently learning **Python & AI**
-
-- 🤝 I’m looking for help with **supporter**
-
-- 👨‍💻 All of my projects are available at [devnar.github.io](https://devnar.github.io)
-
-- 📫 How to reach me **devnar@duck.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_devnar" height="30" width="40" /></a>
-<a href="https://twitter.com/_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_devnar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@_devnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_devnar" height="30" width="40" /></a>
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devnar&theme=dark&hide_border=true&locale=en)](https://git.io/streak-stats)
+- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa) & [Tickle](https://devnar.github.io/tickle) 
+- 🌱 I’m currently learning **Python & AI** - 🤝 I’m looking for help with **supporter** - 👨‍💻 All of my projects are available
+at [devnar.github.io](https://devnar.github.io) - 📫 How to reach me **devnar@duck.com**
+
+<h3>Connect with me:</h3>
+<p>
+    <a href="https://youtube.com/@_devnar"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://discord.gg/7ANkUb8Dyu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://twitter.com/_devnar"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/devnar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codepen.io/_devnar"><img src="https://img.shields.io/badge/Codepen-%23000.svg?style=flat-square&logo=Codepen&logoColor=white" alt="Codepen" /></a>
+    <a href="https://reddit.com/user/_devnar/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="mailto:devnar@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+<h3>Languages and Tools:</h3>
+<p></p>
+<p>
+    <img src="https://img.shields.io/badge/firebase%20DataBase-F38020?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase database" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+    <img src="https://img.shields.io/badge/HTML-%23323330.svg?style=for-the-badge&logo=html5&logoColor=f16529" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=33a9dc" alt="CSS" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white" alt="UNITY" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+    <img src="https://img.shields.io/badge/Bot-%235835CC.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot" />
+    <img src="https://img.shields.io/badge/PowerShell-%23000.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+    <img src="https://img.shields.io/badge/Arduino-199a9f?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+<h3>My Github Statistics:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=devnar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=""><br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devnar&theme=dark&hide_border=false" alt=""><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
