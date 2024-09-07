@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm NAR</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p><img src="https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&&color=23b5b5&style=flat" alt="devnar" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&color=23b5b5&style=flat" alt="devnar" />
+<img src="https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat" alt="devnar" /></p>
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a></p>
 
@@ -44,6 +45,8 @@
 </p>
 
 <h3>My Github Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=devnar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=""><br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devnar&theme=dark&hide_border=false" alt=""><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devnar&theme=dark&hide_border=true&border_radius=10&locale=tr" alt=""><br /><br />
+<a href="/masa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=masa&theme=dark" alt="masa"></a>
+<a href="/imnothacker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=imnothacker&theme=dark" alt="I'm Not Hacker"></a>
+<a href="/sayidisi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=sayidisi&theme=dark" alt="Sayıdışı"></a>
+<a href="/pigeongo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=pigeongo&theme=dark" alt="PigeonGo"></a>
