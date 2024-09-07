@@ -3,23 +3,18 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&&color=23b5b5&style=flat" alt="devnar" /></p>
 
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a>
-</p>
-
-- 🔭 I’m currently working on [MASA](https://devnar.github.io/masa) & [Tickle](https://devnar.github.io/tickle) 
-- 🌱 I’m currently learning **Python & AI** - 🤝 I’m looking for help with **supporter** - 👨‍💻 All of my projects are available
-at [devnar.github.io](https://devnar.github.io) - 📫 How to reach me **devnar@duck.com**
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true" alt="devnar" /></a></p>
 
 <h3>Connect with me:</h3>
 <p>
-    <a href="https://youtube.com/@_devnar"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-    <a href="https://discord.gg/7ANkUb8Dyu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://twitter.com/_devnar"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter" /></a>
-    <a href="https://linkedin.com/in/devnar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://codepen.io/_devnar"><img src="https://img.shields.io/badge/Codepen-%23000.svg?style=flat-square&logo=Codepen&logoColor=white" alt="Codepen" /></a>
-    <a href="https://reddit.com/user/_devnar/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white" alt="Reddit" /></a>
-    <a href="mailto:devnar@duck.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://youtube.com/@_devnar"><img src="https://img.shields.io/badge/&#818;devnar-FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://discord.gg/7ANkUb8Dyu"><img src="https://img.shields.io/badge/NAR support-7289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://x.com/_devnar"><img src="https://img.shields.io/badge/&#818;devnar-000.svg?style=flat-square&logo=X&logoColor=white" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/devnar"><img src="https://img.shields.io/badge/devnar-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://codepen.io/_devnar"><img src="https://img.shields.io/badge/&#818;devnar-000.svg?style=flat-square&logo=Codepen&logoColor=white" alt="Codepen" /></a>
+    <a href="https://reddit.com/user/_devnar/"><img src="https://img.shields.io/badge/&#818;&#818;devnar-FF4500.svg?style=flat-square&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="https://narlog.blogspot.com/"><img src="https://img.shields.io/badge/narlog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blogger"></a>
+    <a href="mailto:devnar@duck.com"><img src="https://img.shields.io/badge/devnar@duck.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <h3>Languages and Tools:</h3>
