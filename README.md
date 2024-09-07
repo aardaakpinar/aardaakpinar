@@ -46,7 +46,7 @@
 
 <h3>My Github Statistics:</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=devnar&theme=dark&hide_border=true&border_radius=10&locale=tr" alt=""><br /><br />
-<a href="/masa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=masa&theme=dark" alt="masa"></a>
-<a href="/imnothacker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=imnothacker&theme=dark" alt="I'm Not Hacker"></a>
-<a href="/sayidisi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=sayidisi&theme=dark" alt="Sayıdışı"></a>
-<a href="/pigeongo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=pigeongo&theme=dark" alt="PigeonGo"></a>
+<a href="https://github.com/devnar/masa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=masa&theme=dark" alt="masa"></a>
+<a href="https://github.com/devnar/imnothacker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=imnothacker&theme=dark" alt="I'm Not Hacker"></a>
+<a href="https://github.com/devnar/sayidisi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=sayidisi&theme=dark" alt="Sayıdışı"></a>
+<a href="https://github.com/devnar/pigeongo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devnar&repo=pigeongo&theme=dark" alt="PigeonGo"></a>
