@@ -19,4 +19,4 @@ Hi 👋, I'm NAR
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=devnar&theme=dark&hide_border=true&border_radius=10&locale=tr)  
   
-!\[devnar's Stats\](https://github-readme-stats.vercel.app/api?username=devnar&theme=dark&show\_icons=true&hide\_border=true&count\_private=true)
+![](https://github-readme-stats.vercel.app/api?username=devnar&theme=dark&show_icons=true&hide_border=true&count_private=true)
