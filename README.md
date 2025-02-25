@@ -4,12 +4,10 @@ Hi 👋, I'm NAR
 ### A passionate frontend developer from Turkey
 
 ![devnar](https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&color=23b5b5&style=flat) ![devnar](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat)
+[![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:hidevnar@proton.me)
 
 [![devnar](https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Connect with me:
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@_devnar) [![X](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_devnar) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devnar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/_devnar) [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hidevnar@proton.me)
 
 ### Support with me:
 
