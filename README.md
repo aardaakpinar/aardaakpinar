@@ -1,18 +1,18 @@
-Hi 👋, I'm NAR
+Hi 👋, I'm Arda
 ==============
 
 ### A passionate frontend developer from Turkey
 
-![devnar](https://komarev.com/ghpvc/?username=devnar&label=Profile%20views&color=23b5b5&style=flat) ![devnar](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat)
-[![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:hidevnar@proton.me)
+![aardaakpinar](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat) ![aardaakpinar](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat)
+[![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:hiaardaakpinar@proton.me)
 
-[![devnar](https://github-profile-trophy.vercel.app/?username=devnar&row=1&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![aardaakpinar](https://github-profile-trophy.vercel.app/?username=aardaakpinar&row=1&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Support with me:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devnar) 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/_devnar)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aardaakpinar) 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/_aardaakpinar)
 
 ### Languages and Tools:
 
@@ -20,6 +20,6 @@ Hi 👋, I'm NAR
 
 ### My Github Statistics:
 
-![](https://github-readme-streak-stats.herokuapp.com?user=devnar&theme=dark&hide_border=true&border_radius=10&locale=tr)  
+![](https://github-readme-streak-stats.herokuapp.com?user=aardaakpinar&theme=dark&hide_border=true&border_radius=10&locale=tr)  
   
-![](https://github-readme-stats.vercel.app/api?username=devnar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=aardaakpinar&theme=dark&show_icons=true&hide_border=true&count_private=true)
