@@ -6,7 +6,7 @@ Hi 👋, I'm Arda
 ![aardaakpinar](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat) ![aardaakpinar](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat)
 [![Mail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:hidevnar@proton.me)
 
-[![aardaakpinar](https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=aardaakpinar&row=1&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![aardaakpinar](https://github-profile-trophy.vercel.app/?username=aardaakpinar&row=1&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Support with me:
