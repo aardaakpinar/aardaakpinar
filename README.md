@@ -67,29 +67,6 @@ I started my journey by building websites with simple tools like WordPress and G
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
----
-## 🧪 Projects
-
-- **[Pitopi](https://github.com/pitopichat/pitopichat)** (2024)  
-  💬 Real-time and secure P2P chat app.  
-  *HTML • CSS • JS • Node.js • Tailwind*
-
-- **[Sayıdışı](https://github.com/aardaakpinar/sayidisi)** (15 May 2025)  
-  🔢 Find the missing digit in a 9-digit number.  
-  *HTML • CSS • JS*
-
-- **[Naturalized C](https://github.com/naturalizedc/naturalizedc)** (10 October 2025)  
-  🧠 C-like interpreted scripting language for education & prototyping.  
-  *C*
-
-- **[PigeonGO](https://github.com/aardaakpinar/pigeongo)** (22 June 2024)  
-  🔍 A tiny, minimal search engine.  
-  *HTML • CSS • JS • Tailwind • Google Custom Search API*
-
-- **[Target O](https://github.com/aardaakpinar/targeto)** (22 November 2024)  
-  🎯 Aim, shoot, survive! (browser game).  
-  *HTML • CSS • JS*
-
 
 ---
 
@@ -116,7 +93,7 @@ I enjoy **building tools and applications that challenge me**, experimenting acr
 
 ---
 
-## 💬 Support Me
+## 🪙 Support Me
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aardaakpinar) 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aardaakpinar)
