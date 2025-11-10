@@ -79,7 +79,7 @@ After NAR, I decided to move into more professional domains. My next project was
 In **2024**, I shifted my focus to **Pitopi**, a secure real-time P2P chat application. At the same time, I continued developing other side projects and games to expand my skills:  
 
 - **Search Engines:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
-- **Games:** [Target O](https://github.com/aardaakpinar/targeto), [Sayıdışı](https://github.com/aardaakpinar/sayidisi), Einar’ın Mirası, Petri.io  
+- **Games:** [Target O](https://github.com/aardaakpinar/targeto), [Sayıdışı](https://github.com/aardaakpinar/sayidisi), Einar’ın Mirası, [Petri.io](https://github.com/aardaakpinar/petri.io)
 - **Social Apps:** Masa, Duvar, [Pitopi](https://github.com/pitopichat/pitopichat)  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
 - **News:** Bibak  
