@@ -80,9 +80,9 @@ In **2024**, I shifted my focus to **Pitopi**, a secure real-time P2P chat appli
 
 - **Search Engines:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
 - **Games:** [Target O](https://github.com/aardaakpinar/targeto), [Sayıdışı](https://github.com/aardaakpinar/sayidisi), Einar’ın Mirası, [Petri.io](https://github.com/aardaakpinar/petri.io)
-- **Social Apps:** Masa, Duvar, [Pitopi](https://github.com/pitopichat/pitopichat)  
+- **Social Apps:** [Masa](https://github.com/aardaakpinar/masa), Duvar, [Pitopi](https://github.com/pitopichat/pitopichat)  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
-- **News:** Bibak  
+- **News:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
 - **Programming Language:** [Naturalized C](https://github.com/naturalizedc/naturalizedc)  
 - **Cryptography:** N23  
 
