@@ -72,7 +72,7 @@ I started my journey by building websites with simple tools like WordPress and G
 
 ## 🧭 My Journey
 
-My journey in software development started around **2019–2020**, right when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, _"If they can do it, so can I,"_ I built my first application called **NAR** — a name I chose because I tried to integrate everything I experimented with into it.
+My journey in software development started around **2019–2020**, right when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, _"If they can do it, so can I,"_ I built my first application called **NAR** a name I chose because I tried to integrate everything I experimented with into it.
 
 After NAR, I decided to move into more professional domains. My next project was a social media app named **Masa**, which I developed until **2024**. However, I realized that convincing people to switch from the apps they already use daily was extremely challenging, and I didn’t want my hard work to go unnoticed.  
 
@@ -86,7 +86,7 @@ In **2024**, I shifted my focus to **Pitopi**, a secure real-time P2P chat appli
 - **Programming Language:** [Naturalized C](https://github.com/naturalizedc/naturalizedc)  
 - **Cryptography:** N23  
 
-In total, I have **13 projects** — some in concept, some live, and some I decided to discontinue. Each project taught me something new, helping me grow as a developer and problem solver.  
+In total, I have **13 projects** some in concept, some live, and some I decided to discontinue. Each project taught me something new, helping me grow as a developer and problem solver.  
 
 I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
 
