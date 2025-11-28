@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arda
 
-🌐 A passionate **frontend developer** from Turkey — and an explorer of new technologies since 2019.  
+🌐 A passionate **frontend developer** from Turkey and an explorer of new technologies since 2019.  
 I started my journey by building websites with simple tools like WordPress and Google Sites, but over time I switched to **coding everything myself**.  
 
 ![Profile views](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat-square) 
