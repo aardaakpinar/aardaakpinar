@@ -1,0 +1,5 @@
+configuration {
+	terminal: "kitty";
+}
+
+@theme "/home/nar/.config/rofi/themes/darker-than-black_v1.rasi"
