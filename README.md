@@ -83,7 +83,7 @@ In **2024**, I shifted my focus to **Pitopi**, a secure real-time P2P chat appli
 - **Social Apps:** [Masa](https://github.com/aardaakpinar/masa), Duvar, [Pitopi](https://github.com/pitopichat/pitopichat)  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
 - **News:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
-- **Programming Language:** [Naturalized C](https://github.com/naturalizedc/naturalizedc)  
+- **Programming Language:** [NaC](https://github.com/naclang/nac)  
 - **Cryptography:** [N23](https://github.com/aardaakpinar/n23)  
 
 In total, I have **13 projects** some in concept, some live, and some I decided to discontinue. Each project taught me something new, helping me grow as a developer and problem solver.  
