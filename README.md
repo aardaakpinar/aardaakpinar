@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Arda
 
-🌐 A passionate **frontend developer** from Turkey and an explorer of new technologies since 2019.  
-I started my journey by building websites with simple tools like WordPress and Google Sites, but over time I switched to **coding everything myself**.  
+Software developer from Istanbul, exploring new technologies since 2019. 
+Started with simple tools, now coding everything myself to push past my limits. 
 
 ![Profile views](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat-square) 
 ![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat-square)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aardaakpinar) 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/aardaakpinar)
 
 ---
 
@@ -72,21 +70,18 @@ I started my journey by building websites with simple tools like WordPress and G
 
 ## 🧭 My Journey
 
-My journey in software development started around **2019–2020**, right when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, _"If they can do it, so can I,"_ I built my first application called **NAR** a name I chose because I tried to integrate everything I experimented with into it.
+My journey in software development started around **2019–2020**, when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, *“If they can do it, so can I,”* I built my first application, **NAR** a project where I tried to combine everything I was experimenting with at the time.
 
-After NAR, I decided to move into more professional domains. My next project was a social media app named **Masa**, which I developed until **2024**. However, I realized that convincing people to switch from the apps they already use daily was extremely challenging, and I didn’t want my hard work to go unnoticed.  
+So far, I’ve worked on many projects some conceptual, some live, and some eventually discontinued. Each one taught me something new and helped shape how I approach problems and build software.
 
-In **2024**, I shifted my focus to **Pitopi**, a secure real-time P2P chat application. At the same time, I continued developing other side projects and games to expand my skills:  
-
-- **Search Engines:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
-- **Games:** [Target O](https://github.com/aardaakpinar/targeto), [Sayıdışı](https://github.com/aardaakpinar/sayidisi), Einar’ın Mirası, [Petri.io](https://github.com/aardaakpinar/petri.io)
-- **Social Apps:** [Masa](https://github.com/aardaakpinar/masa), Duvar, [Pitopi](https://github.com/pitopichat/pitopichat)  
+**Projects by category:**
+- **Search Engine:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
+- **Games:** [Sayıdışı](https://github.com/aardaakpinar/sayidisi), [Target O](https://github.com/aardaakpinar/targeto), Einar’ın Mirası
+- **Social Apps:** [Pitopi](https://github.com/pitopichat/pitopichat), [Masa](https://github.com/aardaakpinar/masa), Duvar  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
 - **News:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
 - **Programming Language:** [NaC](https://github.com/naclang/nac)  
-- **Cryptography:** [N23](https://github.com/aardaakpinar/n23)  
-
-In total, I have **13 projects** some in concept, some live, and some I decided to discontinue. Each project taught me something new, helping me grow as a developer and problem solver.  
+- **Encryption Algorithm:** [N23](https://github.com/aardaakpinar/n23)
 
 I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
 
