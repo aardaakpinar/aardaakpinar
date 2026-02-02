@@ -79,7 +79,7 @@ So far, I’ve worked on many projects some conceptual, some live, and some even
 - **Games:** [Sayıdışı](https://github.com/aardaakpinar/sayidisi), [Target O](https://github.com/aardaakpinar/targeto), Einar’ın Mirası
 - **Social Apps:** [Pitopi](https://github.com/pitopichat/pitopichat), [Masa](https://github.com/aardaakpinar/masa), Duvar  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
-- **News:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
+- **Rss Reader:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
 - **Programming Language:** [NaC](https://github.com/naclang/nac)  
 - **Encryption Algorithm:** [N23](https://github.com/aardaakpinar/n23)
 
