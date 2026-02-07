@@ -76,7 +76,7 @@ So far, I’ve worked on many projects some conceptual, some live, and some even
 
 **Projects by category:**
 - **Search Engine:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
-- **Games:** [Sayıdışı](https://github.com/aardaakpinar/sayidisi), [Target O](https://github.com/aardaakpinar/targeto), Einar’ın Mirası
+- **Games:** [Sayıdışı](https://github.com/aardaakpinar/sayidisi)
 - **Social Apps:** [Pitopi](https://github.com/pitopichat/pitopichat), [Masa](https://github.com/aardaakpinar/masa), Duvar  
 - **AI:** [Limon](https://github.com/aardaakpinar/limon)  
 - **Rss Reader:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
