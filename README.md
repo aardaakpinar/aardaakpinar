@@ -73,16 +73,6 @@ Started with simple tools, now coding everything myself to push past my limits.
 My journey in software development started around **2019–2020**, when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, *“If they can do it, so can I,”* I built my first application, **NAR** a project where I tried to combine everything I was experimenting with at the time.
 
 So far, I’ve worked on many projects some conceptual, some live, and some eventually discontinued. Each one taught me something new and helped shape how I approach problems and build software.
-
-**Projects by category:**
-- **Search Engine:** [PigeonGO](https://github.com/aardaakpinar/pigeongo)  
-- **Games:** [Sayıdışı](https://github.com/aardaakpinar/sayidisi)
-- **Social Apps:** [Pitopi](https://github.com/pitopichat/pitopichat), [Masa](https://github.com/aardaakpinar/masa), Duvar  
-- **AI:** [Limon](https://github.com/aardaakpinar/limon)  
-- **Rss Reader:** [Bi'Bak](https://github.com/aardaakpinar/bibak)    
-- **Programming Language:** [NaC](https://github.com/naclang/nac)  
-- **Encryption Algorithm:** [N23](https://github.com/aardaakpinar/n23)
-
 I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
 
 ---
