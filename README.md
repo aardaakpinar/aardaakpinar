@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Arda
 
+<p align="center">
+<a href="./bookmarks">🔖 Bookmarks</a> •
+<a href="https://github.com/aardaakpinar?tab=repositories">📦 Projects</a> •
+<a href="#-support-me">☕ Support</a>
+</p>
+
 Software developer from Istanbul, exploring new technologies since 2019. 
 Started with simple tools, now coding everything myself to push past my limits. 
 
