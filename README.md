@@ -75,9 +75,9 @@ My journey in software development started around **2019–2020**, when the COVI
 So far, I’ve worked on many projects some conceptual, some live, and some eventually discontinued. Each one taught me something new and helped shape how I approach problems and build software.
 I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
 
-- [Books 📚](./bookmarks/books.md) – My reading list
-- [Movies 🎬](./bookmarks/movies.md) – Movies I've watched
-- [Series 📺](./bookmarks/series.md) – Series I've followed
+- [📚 Books](./bookmarks/books.md) – My reading list
+- [🎬 Movies](./bookmarks/movies.md) – Movies I've watched
+- [📺 Series](./bookmarks/series.md) – Series I've followed
 
 ---
 
