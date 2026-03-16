@@ -1,9 +1,7 @@
 ## 📺 TV Shows
-
 *Series I've watched — sorted roughly by IMDb rating.*
 
 <div align="center">
-
 <a target="_blank" href="https://www.imdb.com/title/tt7366338"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Chernobyl" data-imdb="9.3" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
     <a target="_blank" href="https://www.imdb.com/title/tt2861424"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_FMjpg_UX800_.jpg" alt="Rick and Morty" data-imdb="9.0" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
     <a target="_blank" href="https://www.imdb.com/title/tt1865718"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_FMjpg_UX800_.jpg" alt="Gravity Falls" data-imdb="8.9" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
@@ -55,5 +53,4 @@
     <a target="_blank" href="https://www.imdb.com/title/tt0255768"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNzdiNjk5ODgtODNjNi00NDI4LTkyOTctZTFjNTllMmRmOTg5XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="The Yogi Bear Show" data-imdb="6.6" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
     <a target="_blank" href="https://www.imdb.com/title/tt2638376"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BYTZhZDI5MWMtOTA3ZC00ZTZhLTgyYjAtZjRlNzc4YzBjMTI1XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Casper" data-imdb="6.5" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
     <a target="_blank" href="https://www.imdb.com/title/tt7639726"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BZTQyYmVhNTUtOTI2NS00MWI3LTk0NTgtZTk1MmU3YWY3NzkxXkEyXkFqcGc@._V1_FMjpg_UY800_.jpg" alt="Kral Şakir" data-imdb="6.1" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
-
 </div>
