@@ -1,6 +1,6 @@
 ## 📚 Books
 *Books I've read — listed from past to present.*
-<hr>
+
 <div align="center">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000662978-1.jpg" width="120" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/600x600-0/originals/0001750151001-1.jpg" width="120" height="180" style="object-fit:cover;margin:2px;">
