@@ -1,6 +1,7 @@
 ## 🎬 Movies
 *Series I've watched — sorted roughly by IMDb rating.*
 
+<div>
 <a target="_blank" href="https://www.imdb.com/title/tt0252487"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNjBhMTFjNWQtOTNjNC00ODQzLWExZDMtNmRlMmRkZjRmYzQxXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Hababam Sınıfı" data-imdb="9.2" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
 <a target="_blank" href="https://www.imdb.com/title/tt1375666"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BOTZjMjI4NmYtZTQwNy00MGFhLTlhNDQtZGUzNmQ1ODJmMGI3XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Inception" data-imdb="8.8" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
 <a target="_blank" href="https://www.imdb.com/title/tt0816692"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Interstellar" data-imdb="8.7" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
@@ -98,3 +99,4 @@
 <a target="_blank" href="https://www.imdb.com/title/tt1231580"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BMjI0NTc3MjU5M15BMl5BanBnXkFtZTcwODM4Nzg2Mg@@._V1_FMjpg_UX800_.jpg" alt="Alvin and the Chipmunks: The Squeakquel" data-imdb="4.6" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
 <a target="_blank" href="https://www.imdb.com/title/tt8822348"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BOGE5MDU4OTUtZDA2My00YjVmLThlYWEtZmNmYmYwZDA4NjI1XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Yalan Dolan" data-imdb="4.5" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
 <a target="_blank" href="https://www.imdb.com/title/tt13634480"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BMjhmNDg4NTQtOWNjYi00NjQ0LTgwNzItZDk5Nzk1ZmZlOWEyXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Ice Age: Age Adventures of Buck Wild" data-imdb="4.4" width="120" height="180"  style="object-fit:cover;margin:2px;"></a>
+</div>
