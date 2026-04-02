@@ -2,7 +2,7 @@
 
 * **Pitopi** *(May 2025 – Present)*
   Real-time peer-to-peer chat application with modern UI, file sharing, and story-style content system. Focused on decentralized messaging.
-  [Project Link](https://github.com/pitopichat/pitopi)
+  [Project Link](https://github.com/aardaakpinar/pitopi)
 
 * **Limon** *(Apr 2020 – Present)*
   CLI-based chatbot for personal projects.
