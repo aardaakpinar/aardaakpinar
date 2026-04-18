@@ -4,7 +4,7 @@ Software developer from Istanbul, exploring new technologies since 2019.
 Started with simple tools, now coding everything myself to push past my limits. 
 
 ![Profile views](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat-square) 
-![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-HTML-orange?style=flat-square)
+![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-JavaScript-F7DF1E?style=flat-square)
 
 ---
 
