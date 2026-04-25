@@ -14,7 +14,7 @@
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001730588001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001705124001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001705123001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
-  <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001705110001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
+  <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001705120001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000291906-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000682540-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0001683839001-1.jpg" width="110" height="180" style="object-fit:cover;margin:2px;">
