@@ -8,7 +8,6 @@ Started with simple tools, now coding everything myself to push past my limits.
 
 ---
 
-
 ### 🧭 My Journey
 
 My journey in software development started around **2019–2020**, when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, *“If they can do it, so can I,”* I built my first application, **NAR** a project where I tried to combine everything I was experimenting with at the time.
@@ -23,11 +22,9 @@ I enjoy **building tools and applications that challenge me**, experimenting acr
 
 ---
 
-### 📊 Stats
-<p align="center">
-  
+### 📊 Stats 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aardaakpinar&theme=black-ice)
-</p>
 
 ---
 
