@@ -16,7 +16,7 @@ So far, I’ve worked on many projects some conceptual, some live, and some even
 I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
 
 - [🧰 Tech Stack](./TECHSTACK.md) – The techs I use
-- [🔖 Bookmarks](./bookmarks) – Collected I want to revisit
+- [🔖 Bookmarks](./bookmarks) – My personal collections and things worth revisiting
 
 ---
 
