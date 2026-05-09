@@ -27,7 +27,7 @@
 
 - Content for the Mue Marketplace (forked project).
 - **Tags:** `typescript`, `marketplace`
-- **Status:** 🟢 Active
+- **Status:** 🟡 Paused
 - **Date:** Jan 27, 2025
 
 
@@ -57,7 +57,7 @@
 
 - Find the digit that is not in a 9-digit number (game).
 - **Tags:** `game`, `javascript`
-- **Status:** 🟢 Active
+- **Status:** 🟡 Paused
 - **Date:** May 15, 2024
 
 
