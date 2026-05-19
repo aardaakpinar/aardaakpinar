@@ -1,6 +1,15 @@
 # 📁 Projects
 
 
+### Webot
+
+[aardaakpinar/webot](https://github.com/aardaakpinar/webot)
+
+- A simple FAQ system bot for [@wecordy](https://github.com/wecordy)
+- **Tags:** `nodejs`, `bot`, `typescript`, `wecordy-bot`
+- **Started:** May 11, 2026
+
+
 ### Kargo
 
 [aardaakpinar/kargo](https://github.com/aardaakpinar/kargo)
