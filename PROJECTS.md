@@ -3,98 +3,95 @@
 
 ### Webot
 
-[aardaakpinar/webot](https://github.com/aardaakpinar/webot)
-
 - A simple FAQ system bot for [@wecordy](https://github.com/wecordy)
-- **Tags:** `nodejs`, `bot`, `typescript`, `wecordy-bot`
 - **Started:** May 11, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/webot)
 
 
 ### Kargo
 
-[aardaakpinar/kargo](https://github.com/aardaakpinar/kargo)
-
 - A Turkish version of a browser with almost no UI.
-- **Tags:** `electron`, `browser`, `minimal`
 - **Started:** Apr 14, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/kargo)
+[[WEBSITE]](https://aardaakpinar.github.io/kargo)
 
 
 ### NaC
 
-[naclang/nac](https://github.com/naclang/nac)
-
 - It is a lightweight, interpreted scripting language written in C, with HTTP/JSON and module support.
-- **Tags:** `c`, `interpreter`, `language`, `scripting`
 - **Started:** Oct 10, 2025
+
+[[SOURCE]](https://github.com/naclang/nac)
+[[WEBSITE]](https://naclang.github.io)
 
 
 ### N23
 
-[aardaakpinar/n23](https://github.com/aardaakpinar/n23)
-
 - N23 is a specially developed text encryption algorithm.
-- **Tags:** `python`, `encryption`, `algorithm`
 - **Started:** Aug 22, 2025
+
+[[SOURCE]](https://github.com/aardaakpinar/n23)
 
 
 ### Mue Dark Photo Pack
 
-[aardaakpinar/mue-marketplace](https://github.com/aardaakpinar/mue-marketplace)
-
 - Content for the Mue Marketplace (forked project).
-- **Tags:** `typescript`, `marketplace`
 - **Started:** Jan 27, 2025
+
+[[SOURCE]](https://github.com/aardaakpinar/mue-marketplace)
 
 
 ### Pitopi
 
-[aardaakpinar/pitopi](https://github.com/aardaakpinar/pitopi)
-
 - Peer-to-Peer Chat Application.
-- **Tags:** `nodejs`, `typescript`, `chat`, `peer-to-peer`
 - **Started:** Aug 1, 2024
+
+[[SOURCE]](https://github.com/aardaakpinar/pitopi)
+[[WEBSITE]](https://aardaakpinar.github.io/pitopi)
 
 
 ### Sayıdışı
 
-[aardaakpinar/sayidisi](https://github.com/aardaakpinar/sayidisi)
-
 - Find the digit that is not in a 9-digit number (game).
-- **Tags:** `game`, `javascript`
 - **Started:** May 15, 2024
+
+[[SOURCE]](https://github.com/aardaakpinar/sayidisi)
+[[WEBSITE]](https://aardaakpinar.github.io/sayidisi)
 
 
 ### Wall
 
-[aardaakpinar/wall](https://github.com/aardaakpinar/wall)
-
 - It is a fully customizable, modular Bento Grid portfolio/link page engine with YAML-based configuration.
-- **Tags:** `javascript`, `portfolio`
 - **Started:** Aug 1, 2022
+
+[[SOURCE]](https://github.com/aardaakpinar/wall)
+[[WEBSITE]](https://aardaakpinar.github.io/wall)
 
 
 ### Masa
 
-[aardaakpinar/masa](https://github.com/aardaakpinar/masa)
-
 - Communicate, have fun, and share. Social platform concept.
-- **Tags:** `social-network`, `html-css-javascript`
 - **Started:** Aug 1, 2021
+
+[[SOURCE]](https://github.com/aardaakpinar/masa)
+[[WEBSITE]](https://aardaakpinar.github.io/masa)
 
 
 ### Limon
 
-[aardaakpinar/limon](https://github.com/aardaakpinar/limon)
-
 - A personal AI agent running on your own computer.
-- **Tags:** `ai`, `nodejs`, `terminal`, `ai-agent`
 - **Started:** Apr 10, 2020
+
+[[SOURCE]](https://github.com/aardaakpinar/limon)
+[[WEBSITE]](https://aardaakpinar.github.io/limon)
 
 
 ### Bi'Bak
 
-[aardaakpinar/bibak](https://github.com/aardaakpinar/bibak)
-
 - A simple RSS reader app.
-- **Tags:** `rss-reader`, `javascript`
 - **Started:** Feb 20, 2020
+
+[[SOURCE]](https://github.com/aardaakpinar/bibak)
+[[WEBSITE]](https://aardaakpinar.github.io/bibak)
