@@ -27,14 +27,6 @@
 [[WEBSITE]](https://naclang.github.io)
 
 
-### N23
-
-- N23 is a specially developed text encryption algorithm.
-- **Started:** Aug 22, 2025
-
-[[SOURCE]](https://github.com/aardaakpinar/n23)
-
-
 ### Mue Dark Photo Pack
 
 - Content for the Mue Marketplace (forked project).
