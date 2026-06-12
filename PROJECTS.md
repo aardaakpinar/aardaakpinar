@@ -9,6 +9,14 @@
 [[SOURCE]](https://github.com/aardaakpinar/webot)
 
 
+### Teknofest HYZ görev1
+
+- Dataset, YOLO training pipeline and GUI-based inference system for TEKNOFEST 2026 HYZ Task 1.
+- **Started:** Mar 7, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/hyz-gorev1)
+
+
 ### Kargo
 
 - A Turkish version of a browser with almost no UI.
