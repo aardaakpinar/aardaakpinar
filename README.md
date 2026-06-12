@@ -18,6 +18,7 @@ I enjoy **building tools and applications that challenge me**, experimenting acr
 - [📂 Projects](./PROJECTS.md)
 - [🧰 Tech Stack](./TECHSTACK.md)
 - [🔖 Bookmarks](./bookmarks)
+- [📝 Gists](https://gist.github.com/aardaakpinar)
 
 ---
 
