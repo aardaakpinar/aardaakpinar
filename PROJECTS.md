@@ -55,7 +55,7 @@
 
 ### Pitopi
 
-- Peer-to-Peer Chat Application.
+- Privacy-first encrypted chat platform.
 - **Started:** Aug 1, 2024
 
 [[SOURCE]](https://github.com/aardaakpinar/pitopi)
