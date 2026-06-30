@@ -1,5 +1,6 @@
 ## 📺 TV Shows
-*Series I've watched — sorted roughly by IMDb rating.*
+
+_Series I've watched — sorted roughly by IMDb rating._
 
 <div>
 <a target="_blank" href="https://www.imdb.com/title/tt7366338"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Chernobyl" data-imdb="9.3" width="110px" height="180px"  style="object-fit:cover;margin:2px;"></a>

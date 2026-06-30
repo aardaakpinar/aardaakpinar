@@ -1,5 +1,6 @@
 ## 📚 Books
-*Books I've read — listed from past to present.*
+
+_Books I've read — listed from past to present._
 
 <div>
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000662978-1.jpg" width="110px" height="180px" style="object-fit:cover;margin:2px;">

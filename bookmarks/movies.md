@@ -1,5 +1,6 @@
 ## 🎬 Movies
-*Series I've watched — sorted roughly by IMDb rating.*
+
+_Series I've watched — sorted roughly by IMDb rating._
 
 <div>
 <a target="_blank" href="https://www.imdb.com/title/tt0252487"><img loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNjBhMTFjNWQtOTNjNC00ODQzLWExZDMtNmRlMmRkZjRmYzQxXkEyXkFqcGc@._V1_FMjpg_UX800_.jpg" alt="Hababam Sınıfı" data-imdb="9.2" width="110px" height="180px"  style="object-fit:cover;margin:2px;"></a>
