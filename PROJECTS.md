@@ -17,7 +17,7 @@
 
 ### Kargo
 
-- A Turkish version of a browser with almost no UI.
+- A Turkish version of a browser with almost no UI (forked project).
 - **Started:** Apr 14, 2026
 
 [[SOURCE]](https://github.com/aardaakpinar/kargo)
