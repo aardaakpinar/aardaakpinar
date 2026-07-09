@@ -2,7 +2,7 @@
 
 ### Webot
 
-- A simple FAQ system bot for [@wecordy](https://github.com/wecordy)
+- A Discord bot that answers frequently asked questions and automates community support for [@wecordy](https://github.com/wecordy)
 - **Started:** May 11, 2026
 
 [[SOURCE]](https://github.com/aardaakpinar/webot)
@@ -10,14 +10,14 @@
 
 ### Teknofest HYZ görev1
 
-- Dataset, YOLO training pipeline and GUI-based inference system for TEKNOFEST 2026 HYZ Task 1.
+- A computer vision project featuring dataset preparation, a YOLO training pipeline, and a GUI-based inference application for TEKNOFEST 2026 HYZ Task 1.
 - **Started:** Mar 7, 2026
 
 [[SOURCE]](https://github.com/aardaakpinar/hyz-gorev1)
 
 ### Kargo
 
-- A Turkish version of a browser with almost no UI (forked project).
+- A minimalist Turkish web browser with an almost UI-free interface, inspired by an existing browser concept.
 - **Started:** Apr 14, 2026
 
 [[SOURCE]](https://github.com/aardaakpinar/kargo)
@@ -25,7 +25,7 @@
 
 ### NaC
 
-- It is a lightweight, interpreted scripting language written in C, with HTTP/JSON and module support.
+- A lightweight interpreted language written in C with HTTP, JSON, and module support.
 - **Started:** Oct 10, 2025
 
 [[SOURCE]](https://github.com/naclang/nac)
@@ -33,7 +33,7 @@
 
 ### Mue Dark Photo Pack
 
-- Content for the Mue Marketplace (forked project).
+- A collection of dark-themed wallpapers and visual assets created for the Mue Marketplace.
 - **Started:** Jan 27, 2025
 
 [[SOURCE]](https://github.com/aardaakpinar/mue-marketplace)
@@ -41,14 +41,14 @@
 
 ### Caffein
 
-- A simple coffee shop management game.
+- A coffee shop management simulation game focused on running and expanding a virtual café.
 - **Started:** Dec 15, 2024
 
 [[SOURCE]](https://github.com/aardaakpinar/caffein)
 
 ### Pitopi
 
-- Privacy-first encrypted chat platform.
+- An end-to-end encrypted, privacy-first chat platform for secure communication.
 - **Started:** Aug 1, 2024
 
 [[SOURCE]](https://github.com/aardaakpinar/pitopi)
@@ -56,7 +56,7 @@
 
 ### Sayıdışı
 
-- Find the digit that is not in a 9-digit number (game).
+- A puzzle game where players identify the missing digit in a randomly generated 9-digit number.
 - **Started:** May 15, 2024
 
 [[SOURCE]](https://github.com/aardaakpinar/sayidisi)
@@ -64,7 +64,7 @@
 
 ### Wall
 
-- It is a fully customizable, modular Bento Grid portfolio/link page engine with YAML-based configuration.
+- A static portfolio engine powered by YAML, featuring modular Bento Grid layouts, dynamic theming, and zero-build deployment.
 - **Started:** Aug 1, 2022
 
 [[SOURCE]](https://github.com/aardaakpinar/wall)
@@ -72,7 +72,7 @@
 
 ### Masa
 
-- Communicate, have fun, and share. Social platform concept.
+- A Twitter-inspired social web application built with JavaScript and Firebase, featuring authentication, posts, interactions, and real-time synchronization.
 - **Started:** Aug 1, 2021
 
 [[SOURCE]](https://github.com/aardaakpinar/masa)
@@ -80,7 +80,7 @@
 
 ### Limon
 
-- A personal AI agent running on your own computer.
+- A command-line AI assistant supporting multiple AI providers, file operations, shell command execution, and risk-based confirmation for potentially unsafe actions.
 - **Started:** Apr 10, 2020
 
 [[SOURCE]](https://github.com/aardaakpinar/limon)
@@ -88,7 +88,7 @@
 
 ### Bi'Bak
 
-- A simple RSS reader app.
+- A client-side RSS and Atom reader with IndexedDB storage, bookmarking, OPML import, proxy fallback for CORS, and real-time feed updates.
 - **Started:** Feb 20, 2020
 
 [[SOURCE]](https://github.com/aardaakpinar/bibak)
