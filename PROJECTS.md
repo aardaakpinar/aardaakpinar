@@ -39,12 +39,6 @@
 [[SOURCE]](https://github.com/aardaakpinar/mue-marketplace)
 [[WEBSITE]](https://muetab.com/marketplace/packs/2e7160ff50b9)
 
-### Caffein
-
-- A coffee shop management simulation game focused on running and expanding a virtual café.
-- **Started:** Dec 15, 2024
-
-[[SOURCE]](https://github.com/aardaakpinar/caffein)
 
 ### Pitopi
 
