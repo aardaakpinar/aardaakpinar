@@ -1,12 +1,11 @@
 # 📁 Projects
 
-### Webot
+### FAQsy
 
-- A Discord bot that answers frequently asked questions and automates community support for [@wecordy](https://github.com/wecordy)
+- FAQsy is a multi-platform FAQ bot that works on Discord, Slack, and Telegram with a single codebase.
 - **Started:** May 11, 2026
 
-[[SOURCE]](https://github.com/aardaakpinar/webot)
-[[WEBSITE]](https://developer.wecordy.com/oauth2/authorize?client_id=264c710e080688f34d35f7fe6f4344cc&scope=bot&permissions=1&integration_type=0)
+[[SOURCE]](https://github.com/aardaakpinar/faqsy)
 
 ### Teknofest HYZ görev1
 
