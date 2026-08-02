@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Arda
 
-Software developer from Istanbul, exploring new technologies since 2019.
-Started with simple tools, now coding everything myself to push past my limits.
+Software developer from Istanbul, exploring new technologies and building projects since 2020.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aardaakpinar&label=Profile%20views&color=23b5b5&style=flat-square)
 ![Most Used Languages](https://img.shields.io/badge/Most_Used_Languages-JavaScript-F7DF1E?style=flat-square)
@@ -10,15 +9,13 @@ Started with simple tools, now coding everything myself to push past my limits.
 
 ### 🧭 My Journey
 
-My journey in software development started around **2019–2020**, when the COVID-19 pandemic forced everyone to stay at home. Inspired by the thought, _“If they can do it, so can I,”_ I built my first application, **NAR** a project where I tried to combine everything I was experimenting with at the time.
+My journey in software development started in **2020**, during the COVID-19 pandemic, when I had more time to explore programming. Inspired by the thought, _"If they can do it, so can I,"_ I built my first application, **NAR**, a project where I combined everything I was learning at the time.
 
-So far, I’ve worked on many projects some conceptual, some live, and some eventually discontinued. Each one taught me something new and helped shape how I approach problems and build software.
-I enjoy **building tools and applications that challenge me**, experimenting across different domains, and sharing my journey with the community.
+Since then, I've developed a variety of personal [📂Projects](./PROJECTS.md). Some were completed, some are still evolving, and others became valuable learning experiences. Every project has helped me improve my problem-solving skills, discover new technologies, and become a better developer.
 
-- [📂 Projects](./PROJECTS.md)
-- [🧰 Tech Stack](./TECHSTACK.md)
-- [🔖 Bookmarks](./bookmarks)
-- [📝 Gists](https://gist.github.com/aardaakpinar)
+Today, I enjoy creating applications that solve real problems, learning by building, and continuously improving my skills. I also keep a collection of useful [🔖Bookmarks](./bookmarks) and share small snippets and experiments on [🗒️Gists](https://gist.github.com/aardaakpinar).
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,electron,bootstrap,tailwind,jquery,nodejs,express,py,pytorch,opencv,php,c,postgres,firebase,sqlite,cloudflare,docker,git,github,postman,wordpress,linux,raspberrypi,vscode,kali,windows)
 
 ---
 

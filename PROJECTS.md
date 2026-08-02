@@ -1,5 +1,7 @@
 # 📁 Projects
 
+_A collection of my projects, listed from newest to oldest._
+
 ### FAQsy
 
 - FAQsy is a multi-platform FAQ bot that works on Discord, Slack, and Telegram with a single codebase.
