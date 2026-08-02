@@ -13,9 +13,12 @@ My journey in software development started in **2020**, during the COVID-19 pand
 
 Since then, I've developed a variety of personal [📂Projects](./PROJECTS.md). Some were completed, some are still evolving, and others became valuable learning experiences. Every project has helped me improve my problem-solving skills, discover new technologies, and become a better developer.
 
-Today, I enjoy creating applications that solve real problems, learning by building, and continuously improving my skills. I also keep a collection of useful [🔖Bookmarks](./bookmarks) and share small snippets and experiments on [🗒️Gists](https://gist.github.com/aardaakpinar).
+Today, I enjoy creating applications that solve real problems, learning by building, and continuously improving my skills. I also keep a collection of useful [Bookmarks](./bookmarks) and share small snippets and experiments on [Gists](https://gist.github.com/aardaakpinar).
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,electron,bootstrap,tailwind,jquery,nodejs,express,py,pytorch,opencv,php,c,postgres,firebase,sqlite,cloudflare,docker,git,github,postman,wordpress,linux,raspberrypi,vscode,kali,linux,windows&perline=18)
+---
+
+### 🛠️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,electron,bootstrap,tailwind,jquery,nodejs,express,py,pytorch,opencv,php,c,postgres,firebase,sqlite,cloudflare,docker,git,github,postman,wordpress,linux,raspberrypi,vscode,kali,linux,windows&perline=20)
 
 ---
 
