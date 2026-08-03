@@ -16,8 +16,10 @@ Since then, I've developed a variety of personal [📂Projects](./PROJECTS.md). 
 Today, I enjoy creating applications that solve real problems, learning by building, and continuously improving my skills. I also keep a collection of useful [Bookmarks](./bookmarks) and share small snippets and experiments on [Gists](https://gist.github.com/aardaakpinar).
 
 ---
+
 ### 🧰 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,bootstrap,tailwind,nodejs,express,py,php,c,postgres,firebase,cloudflare,docker,git,github,postman,wordpress,vscode,kali,linux,&perline=18)](./TECHSTACK.md)
+
 ---
 
 ### 🪙 Support Me
