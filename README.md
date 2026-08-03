@@ -17,9 +17,8 @@ Today, I enjoy creating applications that solve real problems, learning by build
 
 ---
 
-### 🛠️ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,vue,electron,bootstrap,tailwind,jquery,nodejs,express,py,pytorch,opencv,php,c,postgres,firebase,sqlite,cloudflare,docker,git,github,postman,wordpress,linux,raspberrypi,vscode,kali,linux,windows&perline=20)
-
+### 🧰 Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,vue,bootstrap,tailwind,nodejs,express,py,php,c,postgres,firebase,cloudflare,docker,git,github,postman,wordpress,vscode,kali,linux,&perline=18)](./TECHSTACK.md)
 ---
 
 ### 🪙 Support Me
