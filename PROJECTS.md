@@ -2,6 +2,13 @@
 
 _A collection of my projects, listed from newest to oldest._
 
+### PHP Forum
+
+- A PHP/MySQL-based forum system that includes user and session management and basic protection against common web security threats.
+- **Started:** Aug 12, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/php-forum)
+
 ### FAQsy
 
 - FAQsy is a multi-platform FAQ bot that works on Discord, Slack, and Telegram with a single codebase.
