@@ -9,13 +9,6 @@ _A collection of my projects, listed from newest to oldest._
 
 [[SOURCE]](https://github.com/aardaakpinar/php-forum)
 
-### FAQsy
-
-- FAQsy is a multi-platform FAQ bot that works on Discord, Slack, and Telegram with a single codebase.
-- **Started:** May 11, 2026
-
-[[SOURCE]](https://github.com/aardaakpinar/faqsy)
-
 ### Teknofest HYZ görev1
 
 - A computer vision project featuring dataset preparation, a YOLO training pipeline, and a GUI-based inference application for TEKNOFEST 2026 HYZ Task 1.
