@@ -67,7 +67,6 @@
 
 ## Cybersecurity
 
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1E1E1E?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
