@@ -2,6 +2,12 @@
 
 _A collection of my projects, listed from newest to oldest._
 
+### Hop
+- A tiny tool that scans your machine for open ports and gives them memorable names.
+- **Started:** Oct 16, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/hop)
+
 ### PHP Forum
 
 - A PHP/MySQL-based forum system that includes user and session management and basic protection against common web security threats.
