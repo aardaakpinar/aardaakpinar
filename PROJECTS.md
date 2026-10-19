@@ -7,6 +7,7 @@ _A collection of my projects, listed from newest to oldest._
 - **Started:** Oct 16, 2026
 
 [[SOURCE]](https://github.com/aardaakpinar/hop)
+[[WEBSITE]](https://aardaakpinar.github.io/hop)
 
 ### PHP Forum
 
