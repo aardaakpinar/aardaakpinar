@@ -2,6 +2,13 @@
 
 _A collection of my projects, listed from newest to oldest._
 
+### How well does your browser know you?
+- Discover how much your browser reveals about your device.
+- **Started:** Oct 20, 2026
+
+[[SOURCE]](https://github.com/aardaakpinar/browser-fingerprint)
+[[WEBSITE]](https://aardaakpinar.github.io/browser-fingerprint)
+
 ### Hop
 - A tiny tool that scans your machine for open ports and gives them memorable names.
 - **Started:** Oct 16, 2026
