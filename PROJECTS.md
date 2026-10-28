@@ -63,6 +63,13 @@ _A collection of my projects, listed from newest to oldest._
 [[SOURCE]](https://github.com/aardaakpinar/pitopi)
 [[WEBSITE]](https://aardaakpinar.github.io/pitopi)
 
+### INH
+
+- A multiplayer hacking game played in the terminal.
+- **Started:** Jun 29, 2024
+
+[[SOURCE]](https://github.com/aardaakpinar/inh)
+
 ### Sayıdışı
 
 - A puzzle game where players identify the missing digit in a randomly generated 9-digit number.
