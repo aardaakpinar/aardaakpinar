@@ -11,7 +11,7 @@ Software developer from Istanbul, exploring new technologies and building projec
 
 My journey in software development started in **2020**, during the COVID-19 pandemic, when I had more time to explore programming. Inspired by the thought, _"If they can do it, so can I,"_ I built my first application, **NAR**, a project where I combined everything I was learning at the time.
 
-Since then, I've developed a variety of personal Projects. Some were completed, some are still evolving, and others became valuable learning experiences. Every project has helped me improve my problem-solving skills, discover new technologies, and become a better developer.
+Since then, I've developed a variety of personal [Projects](./PROJECTS.md). Some were completed, some are still evolving, and others became valuable learning experiences. Every project has helped me improve my problem-solving skills, discover new technologies, and become a better developer.
 
 Today, I enjoy creating applications that solve real problems, learning by building, and continuously improving my skills. I also keep a collection of useful [Bookmarks](./bookmarks) and share small snippets and experiments on [Gists](https://gist.github.com/aardaakpinar).
 
