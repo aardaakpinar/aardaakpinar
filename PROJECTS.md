@@ -3,6 +3,7 @@
 _A collection of my projects, listed from newest to oldest._
 
 ### How well does your browser know you?
+
 - Discover how much your browser reveals about your device.
 - **Started:** Oct 20, 2026
 
@@ -10,6 +11,7 @@ _A collection of my projects, listed from newest to oldest._
 [[WEBSITE]](https://aardaakpinar.github.io/browser-fingerprint)
 
 ### Hop
+
 - A tiny tool that scans your machine for open ports and gives them memorable names.
 - **Started:** Oct 16, 2026
 
@@ -54,7 +56,6 @@ _A collection of my projects, listed from newest to oldest._
 [[SOURCE]](https://github.com/aardaakpinar/mue-marketplace)
 [[WEBSITE]](https://muetab.com/marketplace/packs/2e7160ff50b9)
 
-
 ### Pitopi
 
 - An end-to-end encrypted, privacy-first chat platform for secure communication.
@@ -93,14 +94,6 @@ _A collection of my projects, listed from newest to oldest._
 
 [[SOURCE]](https://github.com/aardaakpinar/masa)
 [[WEBSITE]](https://aardaakpinar.github.io/masa)
-
-### Limon
-
-- A command-line AI assistant supporting multiple AI providers, file operations, shell command execution, and risk-based confirmation for potentially unsafe actions.
-- **Started:** Apr 10, 2020
-
-[[SOURCE]](https://github.com/aardaakpinar/limon)
-[[WEBSITE]](https://aardaakpinar.github.io/limon)
 
 ### Bi'Bak
 
