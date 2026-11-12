@@ -29,6 +29,8 @@ _A collection of my projects, listed from newest to oldest._
 - AI-native operating system
 - **Started:** Mar 30, 2026
 
+[[SOURCE]](https://github.com/horoslinux)
+
 ### Teknofest HYZ görev1
 
 - A computer vision project featuring dataset preparation, a YOLO training pipeline, and a GUI-based inference application for TEKNOFEST 2026 HYZ Task 1.
