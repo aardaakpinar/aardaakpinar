@@ -25,6 +25,10 @@ _A collection of my projects, listed from newest to oldest._
 
 [[SOURCE]](https://github.com/aardaakpinar/php-forum)
 
+### HorOS
+- AI-native operating system
+- **Started:** Mar 30, 2026
+
 ### Teknofest HYZ görev1
 
 - A computer vision project featuring dataset preparation, a YOLO training pipeline, and a GUI-based inference application for TEKNOFEST 2026 HYZ Task 1.
