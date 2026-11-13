@@ -18,7 +18,7 @@ _A collection of my projects, listed from newest to oldest._
 [[SOURCE]](https://github.com/aardaakpinar/hop)
 [[WEBSITE]](https://aardaakpinar.github.io/hop)
 
-### PHP Forum
+### Han
 
 - A PHP/MySQL-based forum system that includes user and session management and basic protection against common web security threats.
 - **Started:** Aug 12, 2026
