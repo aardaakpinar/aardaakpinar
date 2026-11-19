@@ -3,6 +3,7 @@
 _A collection of books I've read over time._
 
 <div>
+  <img src="https://i.dr.com.tr/cache/600x600-0/originals/0000000619168-1.jpg" width="110px" height="180px" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000662978-1.jpg" width="110px" height="180px" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/600x600-0/originals/0001750151001-1.jpg" width="110px" height="180px" style="object-fit:cover;margin:2px;">
   <img src="https://i.dr.com.tr/cache/500x400-0/originals/0000000064038-1.jpg" width="110px" height="180px" style="object-fit:cover;margin:2px;">
