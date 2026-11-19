@@ -52,7 +52,7 @@ _A collection of my projects, listed from newest to oldest._
 - A lightweight interpreted language written in C with HTTP, JSON, and module support.
 - **Started:** Oct 10, 2025
 
-[[SOURCE]](https://github.com/naclang/nac)
+[[SOURCE]](https://github.com/naclang)
 [[WEBSITE]](https://naclang.github.io)
 
 ### Mue Dark Photo Pack
