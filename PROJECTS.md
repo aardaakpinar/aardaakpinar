@@ -31,6 +31,7 @@ _A collection of my projects, listed from newest to oldest._
 - **Started:** Mar 30, 2026
 
 [[SOURCE]](https://github.com/horoslinux)
+[[WEBSITE]](https://horoslinux.github.io)
 
 ### Teknofest HYZ görev1
 
